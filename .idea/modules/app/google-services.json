@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969254184078",
+    "firebase_url": "https://mobilerdevfcm.firebaseio.com",
+    "project_id": "mobilerdevfcm",
+    "storage_bucket": "mobilerdevfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969254184078:android:a55017dd7c464648e6d5df",
+        "android_client_info": {
+          "package_name": "com.mobile.mobilerdevfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969254184078-7vk8qggjgf8aennh5m528jtjfjdnn4rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.mobilerdevfcm",
+            "certificate_hash": "f5961579242e97be42d89ac00cf8904c8e4e210e"
+          }
+        },
+        {
+          "client_id": "969254184078-363bdvrl4j3038sgftlnhalfso67j17k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIECJOAFHwBGJgs_CgJ2gb2lA2Ci_d4rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969254184078-363bdvrl4j3038sgftlnhalfso67j17k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobilerDev Notification</string>
+    <string name="mobiler_notification_channel_id" translatable="false">mobiler_fcm_channel_id</string>
+    <string name="text_welcome">MobilerDev sayfamıza hoşgeldiniz.</string>
+</resources>
